@@ -1,0 +1,35 @@
+*{
+  margin:0;
+  padding:0;
+ box-sizing:border-box;
+  font-family:segoe  UI,Arial;
+}
+
+body{
+  backgroung:white;
+  color:black;
+  text-algin:center;
+ 
+nav{
+  background:pink;
+  text-align:center;
+    top:0;
+  
+}
+nav ul{
+  justify-content:center;
+ list-style:non 
+}
+  nav a{
+      color:white;
+    font-weight:bold;
+  }
+  
+  table th{
+    background-color:pink;
+    color:black
+  }
+  table td{
+    background:black;
+      color:white;
+  }
